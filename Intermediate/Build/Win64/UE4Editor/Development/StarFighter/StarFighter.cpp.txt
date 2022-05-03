@@ -1,0 +1,2 @@
+C:\Users\59167\Desktop\StarFighter-master\StarFighter-master\Intermediate\Build\Win64\UE4Editor\Development\StarFighter\Definitions.StarFighter.h
+C:\Users\59167\Desktop\StarFighter-master\StarFighter-master\Source\StarFighter\StarFighter.h

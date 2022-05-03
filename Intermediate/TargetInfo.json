@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "StarFighter",
+			"Path": "C:\\Users\\59167\\Desktop\\StarFighter-master\\StarFighter-master\\Source\\StarFighter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "StarFighterEditor",
+			"Path": "C:\\Users\\59167\\Desktop\\StarFighter-master\\StarFighter-master\\Source\\StarFighterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
